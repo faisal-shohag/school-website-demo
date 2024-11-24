@@ -106,7 +106,7 @@ export function SchoolNavbar() {
 
           <Link href="/" className=" flex items-center space-x-2 shimmer">
             <Image className="h-14 w-14" height={80} width={80} src="https://i.postimg.cc/4NdbXCFd/image.png" alt="logo" />
-            <div className=" text-sm font-bold sm:inline">
+            <div className=" text-sm hidden lg:block md:block font-bold sm:inline">
                 <div>Vishal Bharti</div>
                 <div>Senior Secondary School</div>
 
