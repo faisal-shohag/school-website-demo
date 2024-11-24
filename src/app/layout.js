@@ -16,10 +16,10 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
-// export const metadata = {
-//   title: "Vishal Bharti Senior Secondary School",
-//   description: "Discover Vishal Bharti Senior Secondary School's Unique Approach to Learning",
-// };
+export const metadata = {
+  title: "Vishal Bharti Senior Secondary School",
+  description: "Discover Vishal Bharti Senior Secondary School's Unique Approach to Learning",
+};
 
 export default function RootLayout({ children }) {
   return (
